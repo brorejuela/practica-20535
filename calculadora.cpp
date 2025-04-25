@@ -16,7 +16,7 @@ int main() {
     cin >> num2;
 
     double resultado = multiplicar(num1, num2);
-    cout << "El resultado de multiplicar " << num1 << " y " << num2 << " es: " << resultado << endl;
+    cout << "El resultado de multiplicar " << num1 << " x " << num2 << " = " << resultado << endl;
 
     return 0;
 }
