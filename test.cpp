@@ -7,3 +7,8 @@ int main(){
 
     return 0;
 }
+
+void saludar(){
+    cout<<"Hola"<<endl;
+
+}
